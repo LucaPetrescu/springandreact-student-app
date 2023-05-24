@@ -1,0 +1,7 @@
+.student-component{
+    border: 2px;
+    border-style: solid;
+    color: black;
+    width:300px;
+    border-radius: 10px;
+}

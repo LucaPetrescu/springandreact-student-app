@@ -1,0 +1,10 @@
+.form-group {
+    padding: 20px;
+    width: 600px;
+    display: flex;
+}
+
+.btn .btn-primary{
+    position: relative;
+    left: 100px;
+}
